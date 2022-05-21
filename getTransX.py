@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 #https://github.com/sporestack/bitcash
 #https://github.com/valinsky/bloxplorer
 #https://github.com/AustEcon/bitsv
-# ye logo ko thoda thoda inaam banta he <3
+# good job people <3
 
 def get_bal_from_BTG_page_content(tableStr):
     cont = []
@@ -92,7 +92,6 @@ def get_All_Bals(pub_key, sec_key):
     return output
          
 
-#125GHz Wallet is love. It's just cool is all;
     
 jsonFile = open('privKeys.json',)
 
